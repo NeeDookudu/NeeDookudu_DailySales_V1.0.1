@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-24",
-  "totalMovies": 43,
+  "totalMovies": 45,
   "movies": {
     "Godari Gattupaina": {
       "name": "Godari Gattupaina",
@@ -455,6 +455,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -470,6 +482,30 @@
               "theatres": {
                 "16605": {
                   "theatreName": "SP Himagiri Cinemas 4K Dolby , Vizianagaram (Newly Renovated), Vizianagaram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Bendamurulanka": {
+              "theatres": {
+                "1052727": {
+                  "theatreName": "Sri Venkatalakshmi Chitralaya A/C, Bendamurulanka",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -1779,6 +1815,90 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Naidupeta": {
+              "theatres": {
+                "4902": {
+                  "theatreName": "Sri Venkateswara 2K A/C DTS, Venkatagiri, Naidupeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chirala": {
+              "theatres": {
+                "4910": {
+                  "theatreName": "Suresh Mahal, Perala, Chirala",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Rajam": {
+              "theatres": {
+                "1020350": {
+                  "theatreName": "SVC Sri Seetharama Twin Theatre, Sai Krishna Nagar, Rajam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -2298,6 +2418,30 @@
               "theatres": {
                 "15614": {
                   "theatreName": "SVC Devi Cinemas, Pragathi Nagar, Nizamabad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Nalgonda": {
+              "theatres": {
+                "4739": {
+                  "theatreName": "SVC Natraj Theatre, Bottu Guda, Nalgonda",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -3123,6 +3267,42 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chirala": {
+              "theatres": {
+                "4910": {
+                  "theatreName": "Suresh Mahal, Perala, Chirala",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -3730,6 +3910,18 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -5015,6 +5207,66 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Gokavaram": {
+              "theatres": {
+                "4852": {
+                  "theatreName": "Srinivasa Theater, Gokavaram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Rajam": {
+              "theatres": {
+                "1020350": {
+                  "theatreName": "SVC Sri Seetharama Twin Theatre, Sai Krishna Nagar, Rajam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -5174,6 +5426,18 @@
               "theatres": {
                 "1041753": {
                   "theatreName": "PVP Multiplex 4K RGB Laser Dolby Atmos, Nagercoil",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1008335": {
+                  "theatreName": "Sri Karthikai Theatre, Balamore Road, Nagercoil",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -5853,6 +6117,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Nanjangud": {
+              "theatres": {
+                "26230": {
+                  "theatreName": "Bhargavai Sreevatsa Theatre, Mysore, Nanjangud",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -6098,6 +6386,18 @@
                 },
                 "1054736": {
                   "theatreName": "Magic Frames Cinemas RGB Laser 4K Dolby Atmos, K Mall, Kakkattil",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "9504": {
+                  "theatreName": "Ajantha Cinemas, Kakkattil",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -6835,6 +7135,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -7126,6 +7462,30 @@
               "theatres": {
                 "16523": {
                   "theatreName": "V Mega Dwaraka Cine Complex, Hbg Nagar, Adoni",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vijayawada": {
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -8898,6 +9258,30 @@
                 },
                 "25938": {
                   "theatreName": "Rajesh Theatre A/C 4K Screen 7.1 Dolby Audio, Nagercoil",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1008335": {
+                  "theatreName": "Sri Karthikai Theatre, Balamore Road, Nagercoil",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "32294": {
+                  "theatreName": "Shri Rama Full A/C 3D 4K HD 11.1 DTS, Vellichanthai, Nagercoil",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -12171,6 +12555,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -14091,6 +14511,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -14883,6 +15315,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "madhya-pradesh": {
+          "cities": {
+            "Indore": {
+              "theatres": {
+                "3145": {
+                  "theatreName": "Ayou Cinema, Rajendra Nagar, Indore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -15134,6 +15602,30 @@
               "theatres": {
                 "1060262": {
                   "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vijayawada": {
+              "theatres": {
+                "11272": {
+                  "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16074,6 +16566,42 @@
               "theatres": {
                 "9131": {
                   "theatreName": "Roopbani Cinema 2K Dolby 7.1, Mehboob Khan Tola, Purnia",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "madhya-pradesh": {
+          "cities": {
+            "Indore": {
+              "theatres": {
+                "3145": {
+                  "theatreName": "Ayou Cinema, Rajendra Nagar, Indore",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -17966,6 +18494,110 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Lo Naveena": {
+      "name": "Lo Naveena",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Lo-Naveena-ecf97f00-4520-11f1-9e72-b3859bd2479f-6c598c60-4d26-11f1-9b0f-6fd9ecd26185.jpg",
+      "language": "Kannada",
+      "format": "2D",
+      "states": {
+        "karnataka": {
+          "cities": {
+            "Nanjangud": {
+              "theatres": {
+                "26230": {
+                  "theatreName": "Bhargavai Sreevatsa Theatre, Mysore, Nanjangud",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Rakshasapuram": {
+      "name": "Rakshasapuram",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Rakshasapuram-0d49c560-4dd4-11f1-9806-9169d309b793.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "telangana": {
+          "cities": {
+            "Nekkonda": {
+              "theatres": {
+                "1039842": {
+                  "theatreName": "Suriya Kalamandir, Near Durga Petrol Bunk, Nekkonda",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
