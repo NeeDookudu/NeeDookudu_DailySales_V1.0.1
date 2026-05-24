@@ -1,0 +1,71 @@
+name: Hourly Collections Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs at minute 0 of every hour
+  workflow_dispatch: # Allows manual triggering from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    
+    # CRITICAL: Both keys must be present here!
+    env:
+      SUPER_KEY: ${{ secrets.SUPER_KEY }} # Used by BMS/District/Merger
+      ENC_KEY: ${{ secrets.ENC_KEY }}     # Used by encryptor.py
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0 # Fetches all history to ensure a clean push
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install playwright requests cryptography curl_cffi
+
+      - name: Install Chromium
+        run: playwright install chromium --with-deps
+
+      - name: Create data directories
+        run: |
+          mkdir -p data
+          mkdir -p encoded_data
+
+      - name: 1. Run BMS Fetcher
+        run: python BMSLIVERUN.py
+
+      - name: 2. Run District Fetcher
+        run: python DistrictLiveRun.py
+
+      - name: 3. Run Merger
+        run: python MergerRun.py
+
+      - name: 4. Encrypt Merged Data
+        run: python encryptor.py
+
+      - name: Commit and push data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Stage both raw data and encoded data folders
+          git add data/ encoded_data/
+
+          # Check if there are changes to commit
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Update collections data and encrypted payloads: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            
+            git push || (git pull --rebase origin main && git push)
+          else
+            echo "No changes to commit"
+          fi
