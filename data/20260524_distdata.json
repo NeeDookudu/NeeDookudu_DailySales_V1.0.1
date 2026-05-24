@@ -13989,6 +13989,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Vandavasi": {
+              "theatres": {
+                "62250": {
+                  "theatreName": "SCR Cinemas Sri Padmavathi Theatre A/C 2K, Arni Road, Vandavasi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
