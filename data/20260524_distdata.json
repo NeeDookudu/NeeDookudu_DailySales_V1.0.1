@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-24",
-  "totalMovies": 45,
+  "totalMovies": 46,
   "movies": {
     "Godari Gattupaina": {
       "name": "Godari Gattupaina",
@@ -13695,6 +13695,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "33645": {
+                  "theatreName": "Nathganga Screen 3 VIP Recliner Audi, Loni",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -18598,6 +18610,58 @@
               "theatres": {
                 "1039842": {
                   "theatreName": "Suriya Kalamandir, Near Durga Petrol Bunk, Nekkonda",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "The Sheep Detectives": {
+      "name": "The Sheep Detectives",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/The-Sheep-Detective_Poster-16334a70-4b90-11f1-820f-6bdf11568134.jpg",
+      "language": "English",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Vijayawada": {
+              "theatres": {
+                "1023468": {
+                  "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
