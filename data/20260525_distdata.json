@@ -9879,6 +9879,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "55853": {
+                  "theatreName": "Iswarya Cinemas, Koduvai, Tirupur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
