@@ -9375,6 +9375,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "51499": {
+                  "theatreName": "Ramakrishna Cinemas, Melapalayam North Street, Srivilliputhur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
