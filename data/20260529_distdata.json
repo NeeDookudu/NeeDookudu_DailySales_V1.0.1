@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-29",
-  "totalMovies": 55,
+  "totalMovies": 56,
   "movies": {
     "Veerabhadrudu": {
       "name": "Veerabhadrudu",
@@ -11905,6 +11905,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Uthangarai": {
+              "theatres": {
+                "5182": {
+                  "theatreName": "Thirumagal Theatre A/C DTS, Salem Main Road, Uthangarai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -21098,6 +21122,58 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Nenevaru (Who Am I)": {
+      "name": "Nenevaru (Who Am I)",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Movie%20default%20Poster%20-%20PNG%404x-218ecdb0-6c38-11ef-8165-49ab427cc19b.png",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "telangana": {
+          "cities": {
+            "Hyderabad": {
+              "theatres": {
+                "13958": {
+                  "theatreName": "SVC Sri Lakshmi Theatre, Kharmanghat, Hyderabad",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
