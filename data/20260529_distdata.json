@@ -909,6 +909,78 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Vinukonda": {
+              "theatres": {
+                "1044503": {
+                  "theatreName": "Keerthi Cinemas Dolby Atmos 4K A/C, Vinukonda",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Guntakal": {
+              "theatres": {
+                "1088822": {
+                  "theatreName": "Dheeraj Cinemas (SLV) 2K Dolby Atmos A/C, Guntakal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Karempudi": {
+              "theatres": {
+                "1039751": {
+                  "theatreName": "Palnadu Inox Theatre, Opp Police Complex, Karempudi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -3682,6 +3754,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Karempudi": {
+              "theatres": {
+                "1039751": {
+                  "theatreName": "Palnadu Inox Theatre, Opp Police Complex, Karempudi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -8373,6 +8469,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Thiruthani": {
+              "theatres": {
+                "1041393": {
+                  "theatreName": "Golden Cinemas RGB Laser Dolby7.1 3D A/C, Gandhi Road, Thiruthani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -8654,6 +8774,30 @@
               "theatres": {
                 "4174": {
                   "theatreName": "Sreekumar & Pavithra Theatre A/C 2K, Pattambi Road, Valanchery",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tirur": {
+              "theatres": {
+                "1088219": {
+                  "theatreName": "CNC Cinemaas RGB Laser 4K Atmos Triple Beam 3D, Tirur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10707,6 +10851,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1052503": {
+                  "theatreName": "Sri Murugan Cinemas A/C 4K Dolby Atmos, Sankagiri",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -11658,6 +11814,78 @@
               "theatres": {
                 "1020547": {
                   "theatreName": "Bharath Theatre, Bharath Theatre Street, Thanipadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kalakad": {
+              "theatres": {
+                "1015291": {
+                  "theatreName": "Hema Theatre, Main Road, Kalakad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Thiruthani": {
+              "theatres": {
+                "1041393": {
+                  "theatreName": "Golden Cinemas RGB Laser Dolby7.1 3D A/C, Gandhi Road, Thiruthani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vadalur": {
+              "theatres": {
+                "1035744": {
+                  "theatreName": "Muruga Theatre A/C 7.1 DTS, Vadalur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13394,6 +13622,18 @@
               "theatres": {
                 "1012136": {
                   "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "4106": {
+                  "theatreName": "Silver Screen Multiplex, Vavdi, Godhra",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -18001,6 +18241,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Guntur": {
+              "theatres": {
+                "1020333": {
+                  "theatreName": "Mythri Cinemas Phoenix Mall, Barco Flagship Laser Projection, Guntur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -18210,6 +18474,18 @@
               "theatres": {
                 "1012136": {
                   "theatreName": "Rajai Square Cinema, Opp GIDC, Godhra",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "4106": {
+                  "theatreName": "Silver Screen Multiplex, Vavdi, Godhra",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -19661,6 +19937,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Kondagaon": {
+              "theatres": {
+                "9497": {
+                  "theatreName": "Kishore Cineplex, Rojgari Para, Kondagaon",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -20171,6 +20471,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "4106": {
+                  "theatreName": "Silver Screen Multiplex, Vavdi, Godhra",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -20271,6 +20583,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "4106": {
+                  "theatreName": "Silver Screen Multiplex, Vavdi, Godhra",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -20338,6 +20662,30 @@
               "theatres": {
                 "1055117": {
                   "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Umreth": {
+              "theatres": {
+                "26729": {
+                  "theatreName": "APR Cinema, Bhagwati Business Hub, Umreth",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
