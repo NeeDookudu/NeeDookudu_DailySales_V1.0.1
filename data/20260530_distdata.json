@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-05-30",
-  "totalMovies": 51,
+  "totalMovies": 52,
   "movies": {
     "Sandigdham": {
       "name": "Sandigdham",
@@ -5623,6 +5623,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1049289": {
+                  "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -7950,6 +7962,18 @@
               "theatres": {
                 "1075662": {
                   "theatreName": "AEC Cinemas 4K ATMOS 360 Surround, Alappuzha ",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1049289": {
+                  "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10913,6 +10937,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Pollachi": {
+              "theatres": {
+                "4733": {
+                  "theatreName": "Dorais Movie Land A/C 3D Barco 4K Rgb Laser Dolby Atmos, Mahalingapuram, Pollachi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -11326,6 +11374,54 @@
               "theatres": {
                 "24880": {
                   "theatreName": "Aiswarya Movies A/C 4K Dolby 3D, Biyyam, Ponnani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kalady": {
+              "theatres": {
+                "1033632": {
+                  "theatreName": "ST Cinemas 4K Laser Dolby Atmos Golden Mall, Mattoor, Kalady",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Alappuzha": {
+              "theatres": {
+                "1049289": {
+                  "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -15385,6 +15481,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Alappuzha": {
+              "theatres": {
+                "1049289": {
+                  "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -16018,6 +16138,18 @@
               "theatres": {
                 "32811": {
                   "theatreName": "Nathganga Cinema (Screen 2), Loni",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "33645": {
+                  "theatreName": "Nathganga Screen 3 VIP Recliner Audi, Loni",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -19493,6 +19625,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Kondagaon": {
+              "theatres": {
+                "9497": {
+                  "theatreName": "Kishore Cineplex, Rojgari Para, Kondagaon",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -20098,6 +20254,58 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
