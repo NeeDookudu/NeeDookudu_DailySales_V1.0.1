@@ -8647,6 +8647,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "5059": {
+                  "theatreName": "Kamala Cinemas 4K RGB Laser, Vadapalani, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -12442,6 +12454,30 @@
               "theatres": {
                 "31788": {
                   "theatreName": "ARC Rose Cine Palace Triple Beam 3D, Agastiamuzhi, Mukkam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Mala": {
+              "theatres": {
+                "1053536": {
+                  "theatreName": "Pauls Moviedom, Mala 4K Christie Real Laser, Dolby Atmos, Hugo Screen",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
