@@ -3489,6 +3489,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Mayiladuthurai": {
+              "theatres": {
+                "1003773": {
+                  "theatreName": "Vijaya Cinemax A/C 3D Dolby 7.1, Koranad, Mayiladuthurai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -6498,6 +6522,30 @@
               "theatres": {
                 "4904": {
                   "theatreName": "CS Teja Theatre, Swarnamukhi Colony, Naidupeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tadepalligudem": {
+              "theatres": {
+                "24767": {
+                  "theatreName": "G3 Lakshmi Narayana Theatres, Savitrupet, Tadepalligudem",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -11812,6 +11860,42 @@
             "totalRevenue": 0
           }
         },
+        "puducherry": {
+          "cities": {
+            "Puducherry": {
+              "theatres": {
+                "1031296": {
+                  "theatreName": "New Sudha Theatre, Tirukkanur 3D A/C DTS 2K 7.1, Puducherry",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
         "null": {
           "cities": {
             "Parappanangadi": {
@@ -14418,6 +14502,30 @@
               "theatres": {
                 "1011192": {
                   "theatreName": "Sri Bagiyalakshmi Theatre 4K 3D Atmos, Dharmapuri Main Road, Karimangalam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Mayiladuthurai": {
+              "theatres": {
+                "1003773": {
+                  "theatreName": "Vijaya Cinemax A/C 3D Dolby 7.1, Koranad, Mayiladuthurai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
