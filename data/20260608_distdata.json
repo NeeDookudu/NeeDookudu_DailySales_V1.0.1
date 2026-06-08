@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-08",
-  "totalMovies": 34,
+  "totalMovies": 36,
   "movies": {
     "Peddi": {
       "name": "Peddi",
@@ -1850,6 +1850,30 @@
               "theatres": {
                 "1041458": {
                   "theatreName": "SV Cinemas, T.Puttoor Road, Thavanampalle",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tadepalligudem": {
+              "theatres": {
+                "24767": {
+                  "theatreName": "G3 Lakshmi Narayana Theatres, Savitrupet, Tadepalligudem",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -4533,6 +4557,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Borsad": {
+              "theatres": {
+                "43960": {
+                  "theatreName": "Nexus Cinema, Akshar Mall, Borsad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -5893,6 +5941,66 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Sattenapalle": {
+              "theatres": {
+                "1041495": {
+                  "theatreName": "Sri Lakshmi Talkies 4K Dolby Atmos 3D, Sattenapalle",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "telangana": {
+          "cities": {
+            "Hyderabad": {
+              "theatres": {
+                "1041684": {
+                  "theatreName": "Asian Mukta A2 Cinemas, Konark 70MM, Dilsukhnagar, Hyderabad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -6406,6 +6514,30 @@
                 },
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Naidupeta": {
+              "theatres": {
+                "4904": {
+                  "theatreName": "CS Teja Theatre, Swarnamukhi Colony, Naidupeta",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -11379,6 +11511,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -14022,6 +14190,54 @@
               "theatres": {
                 "1041393": {
                   "theatreName": "Golden Cinemas RGB Laser Dolby7.1 3D A/C, Gandhi Road, Thiruthani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ambur": {
+              "theatres": {
+                "4189": {
+                  "theatreName": "Rajkamal Cinemas A/C 4K Dolby Atmos, Ambur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ulundurpet": {
+              "theatres": {
+                "1015975": {
+                  "theatreName": "Sri Narayanan Theatre A/C 4K RGB Laser Dolby Atmos, Ulundurpet",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -17311,6 +17527,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -18098,6 +18350,30 @@
               "theatres": {
                 "12947": {
                   "theatreName": "Valam Multiplex, Varachha, Surat",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Borsad": {
+              "theatres": {
+                "43960": {
+                  "theatreName": "Nexus Cinema, Akshar Mall, Borsad",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -19202,6 +19478,42 @@
               "theatres": {
                 "7753": {
                   "theatreName": "EOS Kawardha, Sidhivinayak Plaza, Kawardha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Narayanpur": {
+              "theatres": {
+                "1066216": {
+                  "theatreName": "Adeshwar Global Cinemas",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20631,6 +20943,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -21305,6 +21653,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -21914,6 +22286,182 @@
               "theatres": {
                 "7753": {
                   "theatreName": "EOS Kawardha, Sidhivinayak Plaza, Kawardha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Bhairawa Dweepam": {
+      "name": "Bhairawa Dweepam",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Bhairwam%20Dwee-41314840-625f-11f1-9d81-f90d0c365abc.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Kota Nellore": {
+              "theatres": {
+                "9373": {
+                  "theatreName": "RRT A/C 2K Dolby, Kota, Nellore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kurnool": {
+              "theatres": {
+                "1089364": {
+                  "theatreName": "Bharath Complex, Kurnool",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Narasimha Naidu": {
+      "name": "Narasimha Naidu",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Narasimha-Nayudu---608x800-1c468e50-01d2-11ee-8dab-5be1c405de47.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Adoni": {
+              "theatres": {
+                "4380": {
+                  "theatreName": "Rajshri Cine Complex, HBG Nagar, Adoni",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Machilipatnam": {
+              "theatres": {
+                "4332": {
+                  "theatreName": "Revathi Picture Palace, Near Naidus Petrol Pump, Machilipatnam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tadipatri": {
+              "theatres": {
+                "1020453": {
+                  "theatreName": "Sai Teja Theatre A/C 4K Dolby7.1 (NewlyA Renovated), State High Way 30 Gandhi Katta, Tadipatri",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
