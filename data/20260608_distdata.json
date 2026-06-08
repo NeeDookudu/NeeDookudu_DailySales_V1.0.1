@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-08",
-  "totalMovies": 32,
+  "totalMovies": 33,
   "movies": {
     "Peddi": {
       "name": "Peddi",
@@ -1562,6 +1562,18 @@
               "theatres": {
                 "4904": {
                   "theatreName": "CS Teja Theatre, Swarnamukhi Colony, Naidupeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "4902": {
+                  "theatreName": "Sri Venkateswara 2K A/C DTS, Venkatagiri, Naidupeta",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -3237,6 +3249,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -4310,6 +4346,30 @@
               "theatres": {
                 "1055117": {
                   "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -6442,6 +6502,30 @@
                 },
                 "1012280": {
                   "theatreName": "Galaxy Cinemas G[XL] RGB Laser Dolby Atmos, New Thiruvalam Road, Vellore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -9127,6 +9211,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1021922": {
+                  "theatreName": "Maris Cinemas A/C, Railway Feeder Road, Palani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -10049,6 +10145,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -10822,6 +10942,42 @@
               "theatres": {
                 "1031296": {
                   "theatreName": "New Sudha Theatre, Tirukkanur 3D A/C DTS 2K 7.1, Puducherry",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13477,6 +13633,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -14563,6 +14743,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1021922": {
+                  "theatreName": "Maris Cinemas A/C, Railway Feeder Road, Palani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -15514,6 +15706,30 @@
               "theatres": {
                 "3896": {
                   "theatreName": "Sri Kumari Cinemas, Nagalapuram Road, Uthukottai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16615,6 +16831,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -17318,6 +17570,30 @@
               "theatres": {
                 "1055117": {
                   "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -18463,6 +18739,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Narayanpur": {
+              "theatres": {
+                "1066216": {
+                  "theatreName": "Adeshwar Global Cinemas",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -19495,6 +19807,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "6121": {
+                  "theatreName": "Padmam Theatre A/C 2K, Down Hill, Malappuram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -19815,6 +20139,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -19941,6 +20301,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Hisar": {
+              "theatres": {
+                "9150": {
+                  "theatreName": "MG Cinemas, Geeta Colony, Hisar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -20034,6 +20418,30 @@
               "theatres": {
                 "6079": {
                   "theatreName": "OHM Cine Garden, Hissar Road, Sirsa",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Hisar": {
+              "theatres": {
+                "9150": {
+                  "theatreName": "MG Cinemas, Geeta Colony, Hisar",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20246,6 +20654,30 @@
               "theatres": {
                 "5105": {
                   "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Hisar": {
+              "theatres": {
+                "9150": {
+                  "theatreName": "MG Cinemas, Geeta Colony, Hisar",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20922,6 +21354,58 @@
               "theatres": {
                 "31788": {
                   "theatreName": "ARC Rose Cine Palace Triple Beam 3D, Agastiamuzhi, Mukkam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
