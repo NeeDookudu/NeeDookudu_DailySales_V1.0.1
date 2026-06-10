@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-10",
-  "totalMovies": 36,
+  "totalMovies": 43,
   "movies": {
     "Samarasimha Reddy": {
       "name": "Samarasimha Reddy",
@@ -2406,6 +2406,18 @@
                 },
                 "5059": {
                   "theatreName": "Kamala Cinemas 4K RGB Laser, Vadapalani, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1030504": {
+                  "theatreName": "Meenakshi Cinemas A/C RGB Laser Dts X Manali, Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -6053,6 +6065,54 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Kakinada": {
+              "theatres": {
+                "1031592": {
+                  "theatreName": "Devi Multiplex, Cinema Hall Road, Kakinada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Narasaraopet": {
+              "theatres": {
+                "1019687": {
+                  "theatreName": "Eswar Mahal Deluxe, Venkat Reddy Nagar, Narasaraopeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -6158,6 +6218,18 @@
               "theatres": {
                 "9365": {
                   "theatreName": "Naaz Cinemas, Kothapet Main Road, Guntur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1020333": {
+                  "theatreName": "Mythri Cinemas Phoenix Mall, Barco Flagship Laser Projection, Guntur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -6506,6 +6578,78 @@
                 },
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Anakapalle": {
+              "theatres": {
+                "1018799": {
+                  "theatreName": "SVC Sri Sairam Movie Land, Library Road Cart Stand Road, Anakapalle",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Machilipatnam": {
+              "theatres": {
+                "4332": {
+                  "theatreName": "Revathi Picture Palace, Near Naidus Petrol Pump, Machilipatnam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vizag": {
+              "theatres": {
+                "1041782": {
+                  "theatreName": "Asian Mukta A2 Cinemas, VMR Mall, Laser 4K Dolby Atmos,  Aganampudi, Gajuwaka",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -7453,6 +7597,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Srikakulam": {
+              "theatres": {
+                "4715": {
+                  "theatreName": "SVC Ramalakshman, Narasannapeta Road, Srikakulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -7858,6 +8026,54 @@
               "theatres": {
                 "4910": {
                   "theatreName": "Suresh Mahal, Perala, Chirala",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vissannapeta": {
+              "theatres": {
+                "5220": {
+                  "theatreName": "Sri Ram Theatre 2K A/C DTS, Vissannapeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vuyyuru": {
+              "theatres": {
+                "5150": {
+                  "theatreName": "Deepak Mahal, Katuru Road, Vuyyuru",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10727,6 +10943,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1020755": {
+                  "theatreName": "Dreambig Sakthi Theatre, KK Junction, Ponnani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -11226,6 +11454,18 @@
                 },
                 "4891": {
                   "theatreName": "Vettri Theatres RGB Laser, Chrompet, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1037496": {
+                  "theatreName": "Vidya Theatre 4K Dolby Atmos, Tambaram (W), Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -14078,6 +14318,18 @@
                 },
                 "22684": {
                   "theatreName": "K K Cinemas A/C 4K RGB Laser Dolby Atmos, Minjur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1030504": {
+                  "theatreName": "Meenakshi Cinemas A/C RGB Laser Dts X Manali, Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -18133,6 +18385,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Vizag": {
+              "theatres": {
+                "1041782": {
+                  "theatreName": "Asian Mukta A2 Cinemas, VMR Mall, Laser 4K Dolby Atmos,  Aganampudi, Gajuwaka",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -20663,6 +20939,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -21946,6 +22258,478 @@
               "theatres": {
                 "12947": {
                   "theatreName": "Valam Multiplex, Varachha, Surat",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Surya S/O Krishnan": {
+      "name": "Surya S/O Krishnan",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Surya-S-o-Krishnan-2-poster-fe31adc0-6172-11f0-a47d-892349f87030.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Pileru": {
+              "theatres": {
+                "1093265": {
+                  "theatreName": "CSN Cinema (Shukur Picture Palace), Pileru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "telangana": {
+          "cities": {
+            "Kothagudem": {
+              "theatres": {
+                "7752": {
+                  "theatreName": "SVC Poorna Picture Palace, RTC Bus Stand Center, Kothagudem",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Police Complaint": {
+      "name": "Police Complaint",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Police-Complaint-936b2d90-5fff-11f1-ab00-3f318d2b89a4-de6108b0-63ce-11f1-b56c-2d308ef02012.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Pileru": {
+              "theatres": {
+                "1093265": {
+                  "theatreName": "CSN Cinema (Shukur Picture Palace), Pileru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Backrooms": {
+      "name": "Backrooms",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Backrooms_Poster-1be09570-493a-11f1-a8aa-ef664b57e8ad-cd792f60-493d-11f1-a9d4-eb9e6131b8e2.jpg",
+      "language": "English",
+      "format": "2D",
+      "states": {
+        "tamil-nadu": {
+          "cities": {
+            "Hosur": {
+              "theatres": {
+                "1015289": {
+                  "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sing Geetham": {
+      "name": "Sing Geetham",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sing-Geetham-571b4100-6247-11f1-9ba7-99850c0ce3b4.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Srikalahasti": {
+              "theatres": {
+                "7137": {
+                  "theatreName": "Vijayalakshmi, Nehru Street, Srikalahasti",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Addanki": {
+              "theatres": {
+                "4889": {
+                  "theatreName": "VNS Cine Complex, Beraka Nagar, Addanki",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Naidupeta": {
+              "theatres": {
+                "4904": {
+                  "theatreName": "CS Teja Theatre, Swarnamukhi Colony, Naidupeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tadepalligudem": {
+              "theatres": {
+                "24767": {
+                  "theatreName": "G3 Lakshmi Narayana Theatres, Savitrupet, Tadepalligudem",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Karuppu Pulsar": {
+      "name": "Karuppu Pulsar",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Karuppu-Pulsar-62a88520-fc06-11f0-8378-231787e3e606.jpg",
+      "language": "Tamil",
+      "format": "2D",
+      "states": {
+        "tamil-nadu": {
+          "cities": {
+            "Tirunelveli": {
+              "theatres": {
+                "7232": {
+                  "theatreName": "Bombay Cinemas Sony 4K Dolby Atmos, Maharaja Nagar, Tirunelveli",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "IPL: Indian Penal Law": {
+      "name": "IPL: Indian Penal Law",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/600x800%20(2)%20(1)-c7cb0530-c9da-11f0-9629-2fb385248955-a48a1a10-ca94-11f0-9fac-3bccf3f63fb4.jpg",
+      "language": "Tamil",
+      "format": "2D",
+      "states": {
+        "kerala": {
+          "cities": {
+            "Guruvayur": {
+              "theatres": {
+                "4038": {
+                  "theatreName": "Appas Theatre, Opposite Srivar Hotel, Guruvayur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Haunted 3D: Echoes of the Past": {
+      "name": "Haunted 3D: Echoes of the Past",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Haunted-3D-2e2d28c0-6324-11f1-92fd-65189db0d670.jpg",
+      "language": "Telugu",
+      "format": "3D",
+      "states": {
+        "andhra-pradesh": {
+          "cities": {
+            "Vuyyuru": {
+              "theatres": {
+                "23841": {
+                  "theatreName": "Sai Cinema",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
