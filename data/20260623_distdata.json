@@ -1425,6 +1425,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Gokavaram": {
+              "theatres": {
+                "4852": {
+                  "theatreName": "Srinivasa Theater, Gokavaram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -11065,6 +11089,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Edappal": {
+              "theatres": {
+                "1027244": {
+                  "theatreName": "Govinda Cinemas Unipolar Beam 3D, Kuttippuram Road, Edappal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -11690,6 +11738,18 @@
                 },
                 "22684": {
                   "theatreName": "K K Cinemas A/C 4K RGB Laser Dolby Atmos, Minjur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "3943": {
+                  "theatreName": "Kasi RGB Laser Dolby Atmos, Ashok Nagar, Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -14061,6 +14121,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Mayiladuthurai": {
+              "theatres": {
+                "1003773": {
+                  "theatreName": "Vijaya Cinemax A/C 3D Dolby 7.1, Koranad, Mayiladuthurai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -14390,42 +14474,6 @@
                 },
                 "1031296": {
                   "theatreName": "New Sudha Theatre, Tirukkanur 3D A/C DTS 2K 7.1, Puducherry",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -14911,6 +14959,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1042465": {
+                  "theatreName": "Murugan Cinemas PLF 4K, Ambattur, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -15182,6 +15242,18 @@
                 },
                 "3960": {
                   "theatreName": "Bharath Theatre 4K RGB Laser Dolby Atmos, Washermenpet, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1037507": {
+                  "theatreName": "Varadaraja Cinemas 4K RGB Laser Dolby Atmos, Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16250,6 +16322,54 @@
               "theatres": {
                 "14703": {
                   "theatreName": "Lena Cinemas 4K Dolby Atmos RGB Laser, S.P. Kovil Street, Chidambaram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ambur": {
+              "theatres": {
+                "4189": {
+                  "theatreName": "Rajkamal Cinemas A/C 4K Dolby Atmos, Ambur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Karimangalam": {
+              "theatres": {
+                "1011192": {
+                  "theatreName": "Sri Bagiyalakshmi Theatre 4K 3D Atmos, Dharmapuri Main Road, Karimangalam",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -17467,6 +17587,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "goa": {
+          "cities": {
+            "Curchorem": {
+              "theatres": {
+                "1033177": {
+                  "theatreName": "JMD Cinemas, Opp GSUDA complex, Curchorem",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -18010,6 +18166,30 @@
               "theatres": {
                 "1055117": {
                   "theatreName": "Shree Ram Cinemax, Jamkhambhaliya",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -18987,6 +19167,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "goa": {
+          "cities": {
+            "Curchorem": {
+              "theatres": {
+                "1033177": {
+                  "theatreName": "JMD Cinemas, Opp GSUDA complex, Curchorem",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -19490,6 +19706,30 @@
               "theatres": {
                 "3965": {
                   "theatreName": "Arunachalam Cinemas, Near Annamalaiar Temple, Thiruvannamalai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Mayiladuthurai": {
+              "theatres": {
+                "1003773": {
+                  "theatreName": "Vijaya Cinemax A/C 3D Dolby 7.1, Koranad, Mayiladuthurai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20442,6 +20682,42 @@
               "theatres": {
                 "7753": {
                   "theatreName": "EOS Kawardha, Sidhivinayak Plaza, Kawardha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "goa": {
+          "cities": {
+            "Curchorem": {
+              "theatres": {
+                "1033177": {
+                  "theatreName": "JMD Cinemas, Opp GSUDA complex, Curchorem",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
