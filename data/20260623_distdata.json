@@ -9563,42 +9563,6 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
         }
       },
       "overallStats": {
@@ -22698,6 +22662,30 @@
               "theatres": {
                 "19294": {
                   "theatreName": "SMT Cinema (Shri Mahalaxmi Talkies), C J Hospitel Road, Surendranagar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Umreth": {
+              "theatres": {
+                "26729": {
+                  "theatreName": "APR Cinema, Bhagwati Business Hub, Umreth",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
