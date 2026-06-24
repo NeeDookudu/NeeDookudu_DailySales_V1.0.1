@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-24",
-  "totalMovies": 57,
+  "totalMovies": 58,
   "movies": {
     "Peddi": {
       "name": "Peddi",
@@ -1406,6 +1406,30 @@
               "theatres": {
                 "5080": {
                   "theatreName": "Poorna Theatre 2K A/C DTS, Madhava Nagar, Pithapuram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Naidupeta": {
+              "theatres": {
+                "4902": {
+                  "theatreName": "Sri Venkateswara 2K A/C DTS, Venkatagiri, Naidupeta",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -8797,6 +8821,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -10214,6 +10262,30 @@
               "theatres": {
                 "1042605": {
                   "theatreName": "Sri Vishnu Cinemas RGB Laser/Dolby Atmos/DTS X Viruthampattu, Vellore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13121,6 +13193,102 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Arcot": {
+              "theatres": {
+                "1037518": {
+                  "theatreName": "Lakshmi Theatre 4K A/C, Arani Road, Arcot",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ulundurpet": {
+              "theatres": {
+                "1015975": {
+                  "theatreName": "Sri Narayanan Theatre A/C 4K RGB Laser Dolby Atmos, Ulundurpet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Villupuram": {
+              "theatres": {
+                "1032901": {
+                  "theatreName": "Kalyan Cinemas A/C dts, KK Nagar, Villupuram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13378,42 +13546,6 @@
                 },
                 "1031296": {
                   "theatreName": "New Sudha Theatre, Tirukkanur 3D A/C DTS 2K 7.1, Puducherry",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -14678,6 +14810,30 @@
               "theatres": {
                 "1011192": {
                   "theatreName": "Sri Bagiyalakshmi Theatre 4K 3D Atmos, Dharmapuri Main Road, Karimangalam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Edappadi": {
+              "theatres": {
+                "1091219": {
+                  "theatreName": "Akshaya Multiplex A/C 4K Dolby Atmos, Edappadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16126,6 +16282,30 @@
                 },
                 "1021629": {
                   "theatreName": "Atithi Cinema, Shivaji Nagar, Chiplun",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Islampur": {
+              "theatres": {
+                "39874": {
+                  "theatreName": "Shree Mankeshwar Chitramandir, Peth Sangli Road, Islampur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20789,6 +20969,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Islampur": {
+              "theatres": {
+                "39874": {
+                  "theatreName": "Shree Mankeshwar Chitramandir, Peth Sangli Road, Islampur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -21833,6 +22037,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Koottanad": {
+              "theatres": {
+                "9368": {
+                  "theatreName": "Saptha Tharang Cinema, City Central Mall, Koottanad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -22042,6 +22270,58 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
