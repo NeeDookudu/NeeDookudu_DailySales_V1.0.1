@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-25",
-  "totalMovies": 51,
+  "totalMovies": 53,
   "movies": {
     "Peddi": {
       "name": "Peddi",
@@ -1317,6 +1317,54 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Jammalamadugu": {
+              "theatres": {
+                "1044095": {
+                  "theatreName": "TPR Cinemas A/C DTS, RDO Office, Jammalamadugu",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Bendamurulanka": {
+              "theatres": {
+                "1052727": {
+                  "theatreName": "Sri Venkatalakshmi Chitralaya A/C, Bendamurulanka",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -2109,6 +2157,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Jangaon": {
+              "theatres": {
+                "27150": {
+                  "theatreName": "SVC Krishna Kala Mandir, Siddipet Road, Jangaon",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -2622,6 +2694,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Anantapur": {
+              "theatres": {
+                "14354": {
+                  "theatreName": "V Mega Triveni Complex, Old Town, Anantapur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -3413,6 +3509,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Jagtial": {
+              "theatres": {
+                "1041725": {
+                  "theatreName": "Balaji Theatre A/C Deluxe, Jagtial",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -3914,6 +4034,18 @@
               "theatres": {
                 "1022965": {
                   "theatreName": "S2 Cinemas, Anantapur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "14354": {
+                  "theatreName": "V Mega Triveni Complex, Old Town, Anantapur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -4629,6 +4761,102 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Srikakulam": {
+              "theatres": {
+                "4715": {
+                  "theatreName": "SVC Ramalakshman, Narasannapeta Road, Srikakulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Rajampet": {
+              "theatres": {
+                "1014990": {
+                  "theatreName": "Sri Sai Cinemas A/C 4K Dolby Atmos, Saraswathipuram, Rajampet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Tadipatri": {
+              "theatres": {
+                "1020453": {
+                  "theatreName": "Sai Teja Theatre A/C 4K Dolby7.1 (NewlyA Renovated), State High Way 30 Gandhi Katta, Tadipatri",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Akividu": {
+              "theatres": {
+                "9527": {
+                  "theatreName": "G3 Theatres, Gangaratnam, Akividu",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -4694,6 +4922,18 @@
               "theatres": {
                 "1015289": {
                   "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1025291": {
+                  "theatreName": "Sree Manjunatha Talkies, Hosur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -4898,6 +5138,18 @@
                 },
                 "1018796": {
                   "theatreName": "SVC Eeshwar, Attapur, Hyderabad",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "14166": {
+                  "theatreName": "Sangeetha Theatre, RC Puram (Formerly SVC Sangeetha), RC Reddy Colony, Hyderabad",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -5782,6 +6034,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Narasaraopet": {
+              "theatres": {
+                "1050768": {
+                  "theatreName": "Geetha Multiplex, Kasu Central Mall, Barco 4K Laser, Dolby Atmos, Narasaraopeta",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -8475,6 +8751,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1034383": {
+                  "theatreName": "LD Cinemas (Sri Lakshmi Devi Theatre) A/C 4K 3D, Travellers Bungalow Road, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -8898,6 +9186,18 @@
               "theatres": {
                 "1021922": {
                   "theatreName": "Maris Cinemas A/C, Railway Feeder Road, Palani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1012189": {
+                  "theatreName": "Revathi Multiplex A/C Dolby Atmos, Dindigul Main Road, Palani",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10927,6 +11227,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1037521": {
+                  "theatreName": "Thirumalai Cinemas A/C Dolby Atmos, Otteri, Vellore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -10942,6 +11254,54 @@
               "theatres": {
                 "1011192": {
                   "theatreName": "Sri Bagiyalakshmi Theatre 4K 3D Atmos, Dharmapuri Main Road, Karimangalam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Hosur": {
+              "theatres": {
+                "1025291": {
+                  "theatreName": "Sree Manjunatha Talkies, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Palani": {
+              "theatres": {
+                "1012189": {
+                  "theatreName": "Revathi Multiplex A/C Dolby Atmos, Dindigul Main Road, Palani",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -11567,6 +11927,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1034383": {
+                  "theatreName": "LD Cinemas (Sri Lakshmi Devi Theatre) A/C 4K 3D, Travellers Bungalow Road, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -11786,6 +12158,18 @@
               "theatres": {
                 "1021922": {
                   "theatreName": "Maris Cinemas A/C, Railway Feeder Road, Palani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1012189": {
+                  "theatreName": "Revathi Multiplex A/C Dolby Atmos, Dindigul Main Road, Palani",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13065,6 +13449,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amballur": {
+              "theatres": {
+                "6035": {
+                  "theatreName": "Chand V Sreerama Movies, Pudukkad, Amballur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13118,6 +13526,42 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13470,6 +13914,30 @@
                 },
                 "9487": {
                   "theatreName": "Balaji 4K Atmos 3D Cinema, Chikkalasandra Uttarahalli Main Road, Bengaluru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Bangarapet": {
+              "theatres": {
+                "1061843": {
+                  "theatreName": "Balachander 2K Dolby 7.1 Digital - Bangarapet",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -13914,6 +14382,78 @@
               "theatres": {
                 "1049289": {
                   "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "punjab": {
+          "cities": {
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "jharkhand": {
+          "cities": {
+            "Giridih": {
+              "theatres": {
+                "7826": {
+                  "theatreName": "Swarn Cinemas, Bhandaridih, Giridih",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -14801,6 +15341,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Palani": {
+              "theatres": {
+                "1012189": {
+                  "theatreName": "Revathi Multiplex A/C Dolby Atmos, Dindigul Main Road, Palani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -14902,6 +15466,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Anantapur": {
+              "theatres": {
+                "14354": {
+                  "theatreName": "V Mega Triveni Complex, Old Town, Anantapur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -15070,6 +15658,18 @@
               "theatres": {
                 "3976": {
                   "theatreName": "Surabhi Movies 4K 3D, South Junction, Chalakudy",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1035939": {
+                  "theatreName": "D Cinemas 4K, South Junction, Chalakudy",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -15430,6 +16030,42 @@
               "theatres": {
                 "24246": {
                   "theatreName": "Sangeeth & Lumiere Dolby Atmos, Vyapara Bhavan Road, Kottakkal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16739,6 +17375,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "7826": {
+                  "theatreName": "Swarn Cinemas, Bhandaridih, Giridih",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -16953,6 +17601,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Kondagaon": {
+              "theatres": {
+                "9497": {
+                  "theatreName": "Kishore Cineplex, Rojgari Para, Kondagaon",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -17061,6 +17733,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -17114,6 +17810,42 @@
               "theatres": {
                 "1049289": {
                   "theatreName": "PAN CINEMAS 4K RGB LASER, Alappuzha",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "himachal-pradesh": {
+          "cities": {
+            "Hamirpur": {
+              "theatres": {
+                "27725": {
+                  "theatreName": "Antariksh Pride Cinema, Hamirpur, Hamirpur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -17314,6 +18046,30 @@
               "theatres": {
                 "1018798": {
                   "theatreName": "SVC Cinemas Venkateswara, Near Bus Stand, Gadwal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Karimnagar": {
+              "theatres": {
+                "1039863": {
+                  "theatreName": "Mythri Theatres, Venkateshwara Deluxe 2K AC DTS, Karimnagar",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -18015,6 +18771,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "jharkhand": {
+          "cities": {
+            "Giridih": {
+              "theatres": {
+                "7826": {
+                  "theatreName": "Swarn Cinemas, Bhandaridih, Giridih",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -18581,6 +19373,66 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "himachal-pradesh": {
+          "cities": {
+            "Hamirpur": {
+              "theatres": {
+                "27725": {
+                  "theatreName": "Antariksh Pride Cinema, Hamirpur, Hamirpur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -18770,6 +19622,30 @@
               "theatres": {
                 "31788": {
                   "theatreName": "ARC Rose Cine Palace Triple Beam 3D, Agastiamuzhi, Mukkam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chalakudy": {
+              "theatres": {
+                "1035939": {
+                  "theatreName": "D Cinemas 4K, South Junction, Chalakudy",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -19757,6 +20633,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -19942,6 +20842,30 @@
                 },
                 "7511": {
                   "theatreName": "Ohm Orbit Cinemas, Mahavir Chowk, Sangrur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Amritsar": {
+              "theatres": {
+                "1041199": {
+                  "theatreName": "OHM Omjee Cinema, Soul Space Spirit Mall, Amritsar",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -20470,6 +21394,110 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Bandar": {
+      "name": "Bandar",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/17793709143506696%20(1)-ef24e1f0-5fe4-11f1-a281-314b52e14b6c.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "bihar": {
+          "cities": {
+            "Ekma Chapra": {
+              "theatres": {
+                "7537": {
+                  "theatreName": "Jai Shankar Cinema, Rahul Nagar, Ekma Chapra",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
