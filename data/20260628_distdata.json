@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-28",
-  "totalMovies": 57,
+  "totalMovies": 58,
   "movies": {
     "Maa Inti Bangaaram": {
       "name": "Maa Inti Bangaaram",
@@ -17525,6 +17525,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Cuddalore": {
+              "theatres": {
+                "4008": {
+                  "theatreName": "New Cinema 4K Dolby Atmos, Pudupalayam, Cuddalore",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -24850,6 +24874,58 @@
               "theatres": {
                 "12947": {
                   "theatreName": "Valam Multiplex, Varachha, Surat",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Vanda Devullu ": {
+      "name": "Vanda Devullu ",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Vanda-Devullu-57f32b50-68a6-11f1-b1ab-454e14ec3db3.jpg",
+      "language": "Telugu",
+      "format": "2D",
+      "states": {
+        "telangana": {
+          "cities": {
+            "Karimnagar": {
+              "theatres": {
+                "1039863": {
+                  "theatreName": "Mythri Theatres, Venkateshwara Deluxe 2K AC DTS, Karimnagar",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
