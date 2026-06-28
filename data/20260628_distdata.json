@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-06-28",
-  "totalMovies": 56,
+  "totalMovies": 57,
   "movies": {
     "Maa Inti Bangaaram": {
       "name": "Maa Inti Bangaaram",
@@ -2313,6 +2313,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Chityal": {
+              "theatres": {
+                "32194": {
+                  "theatreName": "Sujana Theatre, NH65, Chityal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -3378,6 +3402,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Attili": {
+              "theatres": {
+                "1060262": {
+                  "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -6121,6 +6169,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Arni": {
+              "theatres": {
+                "1037525": {
+                  "theatreName": "Sri Lakshmi Theatre A/C 4K 3D, Gandhi Road, Arni",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -6618,6 +6690,54 @@
               "theatres": {
                 "1028879": {
                   "theatreName": "RH Dreambig Cinemas, Kakkassery Souk, Kunnamkulam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chalakudy": {
+              "theatres": {
+                "1035939": {
+                  "theatreName": "D Cinemas 4K, South Junction, Chalakudy",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kottakkal": {
+              "theatres": {
+                "24246": {
+                  "theatreName": "Sangeeth & Lumiere Dolby Atmos, Vyapara Bhavan Road, Kottakkal",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10629,6 +10749,54 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Thanipadi": {
+              "theatres": {
+                "1020547": {
+                  "theatreName": "Bharath Theatre, Bharath Theatre Street, Thanipadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ulundurpet": {
+              "theatres": {
+                "1015975": {
+                  "theatreName": "Sri Narayanan Theatre A/C 4K RGB Laser Dolby Atmos, Ulundurpet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13157,6 +13325,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Guruvayur": {
+              "theatres": {
+                "4038": {
+                  "theatreName": "Appas Theatre, Opposite Srivar Hotel, Guruvayur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13670,6 +13862,30 @@
               "theatres": {
                 "3896": {
                   "theatreName": "Sri Kumari Cinemas, Nagalapuram Road, Uthukottai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Arni": {
+              "theatres": {
+                "1037525": {
+                  "theatreName": "Sri Lakshmi Theatre A/C 4K 3D, Gandhi Road, Arni",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -17261,6 +17477,54 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Tittagudi": {
+              "theatres": {
+                "9246": {
+                  "theatreName": "Periyasamy A/C, Off State Highway 141, Tittagudi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ulundurpet": {
+              "theatres": {
+                "1015975": {
+                  "theatreName": "Sri Narayanan Theatre A/C 4K RGB Laser Dolby Atmos, Ulundurpet",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -18759,6 +19023,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1101384": {
+                  "theatreName": "MVR Cinemas Dolby 7.1 & Dolby Atmos, 4K RGB Laser, Guduvanchery",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -19630,6 +19906,30 @@
               "theatres": {
                 "1398": {
                   "theatreName": "Dnyaneshwar Chitra Mandir, Navi Peth, Rahuri",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Loni": {
+              "theatres": {
+                "33645": {
+                  "theatreName": "Nathganga Screen 3 VIP Recliner Audi, Loni",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -24498,6 +24798,58 @@
               "theatres": {
                 "24880": {
                   "theatreName": "Aiswarya Movies A/C 4K Dolby 3D, Biyyam, Ponnani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
