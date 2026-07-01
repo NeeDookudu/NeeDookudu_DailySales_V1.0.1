@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-07-01",
-  "totalMovies": 55,
+  "totalMovies": 56,
   "movies": {
     "Peddi": {
       "name": "Peddi",
@@ -503,6 +503,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "16791": {
+                  "theatreName": "V Mega Anand Cine Complex, National Highway 18, Kurnool",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -890,6 +902,30 @@
               "theatres": {
                 "11272": {
                   "theatreName": "Capital Cinemas Trendset Mall, Kala Nagar, Vijayawada",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vinukonda": {
+              "theatres": {
+                "1044503": {
+                  "theatreName": "Keerthi Cinemas Dolby Atmos 4K A/C, Vinukonda",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -1454,6 +1490,30 @@
               "theatres": {
                 "1039748": {
                   "theatreName": "Vimala Theatre, Shanti Nagar, Sircilla",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Nirmal": {
+              "theatres": {
+                "4097": {
+                  "theatreName": "Tirumala Theater 70MM, Gajulpet, Nirmal",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -3121,6 +3181,54 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Karempudi": {
+              "theatres": {
+                "1039751": {
+                  "theatreName": "Palnadu Inox Theatre, Opp Police Complex, Karempudi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Chirala": {
+              "theatres": {
+                "4910": {
+                  "theatreName": "Suresh Mahal, Perala, Chirala",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -3781,6 +3889,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Amangal": {
+              "theatres": {
+                "44361": {
+                  "theatreName": "Sri Venkateswara Theatre, Ranga Reddy, Amangal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -4410,6 +4542,30 @@
               "theatres": {
                 "476": {
                   "theatreName": "Ambica Complex, Western Street, Eluru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Vinukonda": {
+              "theatres": {
+                "1044503": {
+                  "theatreName": "Keerthi Cinemas Dolby Atmos 4K A/C, Vinukonda",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -8873,6 +9029,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Maduranthakam": {
+              "theatres": {
+                "1003802": {
+                  "theatreName": "RK Theatre (V Creations), Parthasarathi Naidu Street, Maduranthakam",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -12849,6 +13029,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Neyveli": {
+              "theatres": {
+                "26676": {
+                  "theatreName": "Mahalakshmi Theatre, Periyakurichi, Neyveli",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -13094,6 +13298,18 @@
               "theatres": {
                 "31792": {
                   "theatreName": "Mallika Plex Dolby Atmos, Near Feroke Old Bridge, Calicut",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1054742": {
+                  "theatreName": "Magic Frames Radha 4K 3D Dolby 7.1 Ultra Bass, SM Street, Calicut",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -21566,6 +21782,58 @@
               "theatres": {
                 "12947": {
                   "theatreName": "Valam Multiplex, Varachha, Surat",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Rickshakaran": {
+      "name": "Rickshakaran",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Rick_608x800-8cb51810-abdb-11ee-8a1f-bfa09bf4348a.jpg",
+      "language": "Tamil",
+      "format": "2D",
+      "states": {
+        "tamil-nadu": {
+          "cities": {
+            "Surandai": {
+              "theatres": {
+                "7618": {
+                  "theatreName": "Natraj Theatre UFO A/C 2K, Sivagurunathapuram, Surandai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
