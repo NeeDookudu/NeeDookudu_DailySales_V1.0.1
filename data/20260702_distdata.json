@@ -5669,6 +5669,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Ambur": {
+              "theatres": {
+                "4189": {
+                  "theatreName": "Rajkamal Cinemas A/C 4K Dolby Atmos, Ambur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -10855,6 +10879,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "1034324": {
+                  "theatreName": "Sapphire Cineplex, Kommakkovil Puthur, Perundurai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -11434,6 +11470,30 @@
               "theatres": {
                 "5058": {
                   "theatreName": "Sri Devi Cinemas 3D 4K Dolby Atmos, Punjaipuliyampatti",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ambur": {
+              "theatres": {
+                "4189": {
+                  "theatreName": "Rajkamal Cinemas A/C 4K Dolby Atmos, Ambur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -12942,6 +13002,30 @@
               "theatres": {
                 "1003803": {
                   "theatreName": "Vikram Cinemas A/C 4K 3D Dolby 7.1 - Pallipalayam, State Highway 79, Erode",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Kavindapadi": {
+              "theatres": {
+                "4306": {
+                  "theatreName": "Valarmathi Theatre, Off State Highway 15, Kavindapadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -16950,6 +17034,30 @@
               "theatres": {
                 "22305": {
                   "theatreName": "SVC Cinemas Gemini, Bellampally Road, Mancherial",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Jagtial": {
+              "theatres": {
+                "1041725": {
+                  "theatreName": "Balaji Theatre A/C Deluxe, Jagtial",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
