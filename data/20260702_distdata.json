@@ -4401,6 +4401,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Attili": {
+              "theatres": {
+                "1060262": {
+                  "theatreName": "Sri Kanakadurga RGB 4K Dolby Atmos",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -15435,42 +15459,6 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
-        },
-        "null": {
-          "cities": {
-            "Narayanpur": {
-              "theatres": {
-                "1066216": {
-                  "theatreName": "Adeshwar Global Cinemas",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
         }
       },
       "overallStats": {
@@ -21002,42 +20990,6 @@
               "theatres": {
                 "1023468": {
                   "theatreName": "PVR Ripples Mall, MG Road, Vijaywada",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
