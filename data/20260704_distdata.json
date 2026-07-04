@@ -1,6 +1,6 @@
 {
   "fetchDate": "2026-07-04",
-  "totalMovies": 61,
+  "totalMovies": 62,
   "movies": {
     "Rao Bahadur": {
       "name": "Rao Bahadur",
@@ -5142,6 +5142,42 @@
               "theatres": {
                 "5105": {
                   "theatreName": "BMG Cinema BMG Mall, Leo Chowk, Rewari",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -12455,6 +12491,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -18643,6 +18715,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -19370,6 +19478,42 @@
               "theatres": {
                 "24246": {
                   "theatreName": "Sangeeth & Lumiere Dolby Atmos, Vyapara Bhavan Road, Kottakkal",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -21959,6 +22103,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "null": {
+          "cities": {
+            "Parappanangadi": {
+              "theatres": {
+                "1059680": {
+                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -22370,6 +22550,58 @@
               "theatres": {
                 "16605": {
                   "theatreName": "SP Himagiri Cinemas 4K Dolby , Vizianagaram (Newly Renovated), Vizianagaram",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
+        }
+      },
+      "overallStats": {
+        "totalShows": 0,
+        "totalSeats": 0,
+        "seatsAvailable": 0,
+        "seatsSold": 0,
+        "occupancy": 0.0,
+        "totalRevenue": 0
+      }
+    },
+    "Sakshi": {
+      "name": "Sakshi",
+      "posterUrl": "https://cdn.district.in/movies-assets/images/cinema/Sakshi--608x800-66a99c77-5e0e-4fbd-a4e5-7cd1db3a4024.jpg",
+      "language": "Hindi",
+      "format": "2D",
+      "states": {
+        "gujarat": {
+          "cities": {
+            "Surat": {
+              "theatres": {
+                "12947": {
+                  "theatreName": "Valam Multiplex, Varachha, Surat",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
