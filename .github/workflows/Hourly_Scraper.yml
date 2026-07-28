@@ -25,6 +25,15 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0 # Fetches all history to ensure a clean push
 
+      # ADDED STEP: Frees up ~20GB of disk space by removing unused pre-installed software
+      - name: Free up disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+          sudo rm -rf /opt/hostedtoolcache/CodeQL
+          sudo docker image prune --all --force
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
