@@ -3355,6 +3355,18 @@
                     "occupancy": 0.0,
                     "totalRevenue": 0
                   }
+                },
+                "4248": {
+                  "theatreName": "Ganesh Cinemas RGB Laser Christie Vive Audio, Mannar Swamy Koil Street, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
                 }
               },
               "cityStats": {
@@ -5422,6 +5434,30 @@
               "theatres": {
                 "4174": {
                   "theatreName": "Sreekumar & Pavithra Theatre A/C 2K, Pattambi Road, Valanchery",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            },
+            "Ponnani": {
+              "theatres": {
+                "1020755": {
+                  "theatreName": "Dreambig Sakthi Theatre, KK Junction, Ponnani",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -11814,6 +11850,18 @@
               "theatres": {
                 "24880": {
                   "theatreName": "Aiswarya Movies A/C 4K Dolby 3D, Biyyam, Ponnani",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1020755": {
+                  "theatreName": "Dreambig Sakthi Theatre, KK Junction, Ponnani",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -19315,6 +19363,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "telangana": {
+          "cities": {
+            "Karimnagar": {
+              "theatres": {
+                "1063761": {
+                  "theatreName": "ABR Cinemas The Next (Bharath Talkies), Ashok Nagar, Karimnagar",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -20222,42 +20306,6 @@
               "theatres": {
                 "10270": {
                   "theatreName": "Pakkanar Cinemas 2K 7.1 JBL, Cheruvathur",
-                  "shows": {},
-                  "stats": {
-                    "totalShows": 0,
-                    "totalSeats": 0,
-                    "seatsAvailable": 0,
-                    "seatsSold": 0,
-                    "occupancy": 0.0,
-                    "totalRevenue": 0
-                  }
-                }
-              },
-              "cityStats": {
-                "totalShows": 0,
-                "totalSeats": 0,
-                "seatsAvailable": 0,
-                "seatsSold": 0,
-                "occupancy": 0.0,
-                "totalRevenue": 0
-              }
-            }
-          },
-          "stateStats": {
-            "totalShows": 0,
-            "totalSeats": 0,
-            "seatsAvailable": 0,
-            "seatsSold": 0,
-            "occupancy": 0.0,
-            "totalRevenue": 0
-          }
-        },
-        "null": {
-          "cities": {
-            "Parappanangadi": {
-              "theatres": {
-                "1059680": {
-                  "theatreName": "Magic Frames Prayag Cinemas 4K Laser Dolby Atmos, Parappanangadi",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
