@@ -30,7 +30,7 @@ jobs:
           sudo apt-get clean
           df -h
 
-      # 2. Sparse checkout to bypass downloading historical data files
+      # 2. Sparse checkout: include all root scripts, configs, JSONs, but exclude historical dumps
       - name: Checkout repo (sparse)
         uses: actions/checkout@v4
         with:
@@ -39,9 +39,11 @@ jobs:
           sparse-checkout: |
             .github
             *.py
+            *.json
+            *.enc
+            *.txt
           sparse-checkout-cone-mode: false
 
-      # 3. Setup Python without the pip cache dependency check
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
@@ -74,7 +76,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add data/ encoded_data/
+          # Use --sparse to stage files created outside the sparse definition
+          git add --sparse data/ encoded_data/
 
           if [ -n "$(git status --porcelain)" ]; then
             git commit -m "Update collections data: $(date -u +'%Y-%m-%d %H:%M UTC')"
