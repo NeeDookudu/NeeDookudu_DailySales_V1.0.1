@@ -945,6 +945,30 @@
                 "occupancy": 0.0,
                 "totalRevenue": 0
               }
+            },
+            "Sullurpeta": {
+              "theatres": {
+                "18460": {
+                  "theatreName": "V Celluloids V EPIQ, PSR Nellore, Sullurpeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
             }
           },
           "stateStats": {
@@ -3902,6 +3926,18 @@
               "theatres": {
                 "27219": {
                   "theatreName": "Ceyone Cinemas, Venkateshpuram, Sullurpeta",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "18460": {
+                  "theatreName": "V Celluloids V EPIQ, PSR Nellore, Sullurpeta",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
@@ -10210,6 +10246,18 @@
                 },
                 "1015289": {
                   "theatreName": "Grand Cinemas, Karnur Bus Stop, Hosur",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1025291": {
+                  "theatreName": "Sree Manjunatha Talkies, Hosur",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
