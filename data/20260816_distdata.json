@@ -2123,6 +2123,42 @@
             "occupancy": 0.0,
             "totalRevenue": 0
           }
+        },
+        "karnataka": {
+          "cities": {
+            "Bengaluru": {
+              "theatres": {
+                "10940": {
+                  "theatreName": "Innovative Multiplex Marathahalli, Near Marathalli Junction, Bengaluru",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                }
+              },
+              "cityStats": {
+                "totalShows": 0,
+                "totalSeats": 0,
+                "seatsAvailable": 0,
+                "seatsSold": 0,
+                "occupancy": 0.0,
+                "totalRevenue": 0
+              }
+            }
+          },
+          "stateStats": {
+            "totalShows": 0,
+            "totalSeats": 0,
+            "seatsAvailable": 0,
+            "seatsSold": 0,
+            "occupancy": 0.0,
+            "totalRevenue": 0
+          }
         }
       },
       "overallStats": {
@@ -19282,6 +19318,18 @@
               "theatres": {
                 "1042465": {
                   "theatreName": "Murugan Cinemas PLF 4K, Ambattur, Chennai",
+                  "shows": {},
+                  "stats": {
+                    "totalShows": 0,
+                    "totalSeats": 0,
+                    "seatsAvailable": 0,
+                    "seatsSold": 0,
+                    "occupancy": 0.0,
+                    "totalRevenue": 0
+                  }
+                },
+                "1102122": {
+                  "theatreName": "Seven Screen's Cinemas, Kilambakkam, Chennai",
                   "shows": {},
                   "stats": {
                     "totalShows": 0,
